@@ -6,7 +6,7 @@ Full-Stack Developer
 
 * 🌍  I'm based in Kerala , India
 * ✉️  You can contact me at [mailforadithyan@gmail.com](mailto:mailforadithyan@gmail.com)
-* 🚀  I'm currently working on [Personal learning projects using Python, Django, and JavaScript](http://,)
+* 🚀  I'm currently working on Personal learning projects using Kotlin
 * 🧠  I'm currently learning Kotlin
 * 💬  Ask me about My code works… I don’t know why 🤷‍♂️
 
