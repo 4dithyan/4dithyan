@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Kerala , India
-* 🌐  Portfolio: https://adithyan-portfolio-steel.vercel.app
+* 🌐  Portfolio: https://adithyan-portfolio.pages.dev/
 * ✉️  You can contact me at [mailforadithyan@gmail.com](mailto:mailforadithyan@gmail.com)
 * 🚀  I'm currently working on Personal learning projects using Kotlin
 * 🧠  I'm currently learning Kotlin
