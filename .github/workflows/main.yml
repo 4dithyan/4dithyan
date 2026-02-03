@@ -13,33 +13,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Setup Python 3.12
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.11"
 
       - name: Install generator
+        run: pip install gh-space-shooter
+
+      - name: Create assets folder
+        run: mkdir -p ./assets
+
+      - name: Generate Space Shooter
         run: |
-          python -m pip install --upgrade pip
-          pip install gh-space-shooter
+          ls
+          ls assets
+          gh-space-shooter --output ./assets/space-shooter.gif
 
-      - name: Create assets directory
-        run: mkdir -p assets
-
-- name: Prepare assets folder
-  run: mkdir -p assets
-
-- name: Generate GIF
-  run: gh-space-shooter --output ./assets/space-shooter.gif
-
-
-      - name: Commit GIF
+      - name: Commit and push GIF
         run: |
-          git config user.name github-actions
-          git config user.email actions@github.com
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-          git add assets
-          git commit -m "Update space shooter gif" || echo "No changes"
+          git add assets/space-shooter.gif
+          git commit -m "Update space shooter GIF" || echo "No changes"
           git push
