@@ -1,0 +1,36 @@
+name: Generate GitHub Game
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+
+      - name: Install tool
+        run: pip install gh-space-shooter
+
+      - name: Generate game
+        run: |
+          mkdir -p dist
+          gh-space-shooter --user 4dithyan --output dist
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dist
+          git commit -m "Add GitHub game" || echo "No changes"
+          git push
