@@ -13,20 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Game
-        uses: czl9707/gh-space-shooter@main
+      - name: Generate Space Shooter
+        uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: assets/space-shooter.gif
           strategy: random
 
-      - name: Commit & Push
+      - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
 
           git add assets
-          git commit -m "Update space shooter" || echo "No changes"
+          git commit -m "Update space shooter gif" || echo "No changes"
           git push
