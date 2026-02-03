@@ -1,9 +1,9 @@
 name: Update Space Shooter GIF
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs daily
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,31 +13,39 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Setup Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
-      - name: Install generator
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install space shooter generator
         run: pip install gh-space-shooter
 
       - name: Create assets folder
-        run: mkdir -p ./assets
+        run: mkdir -p assets
 
-      - name: Generate Space Shooter
+      - name: Generate Space Shooter GIF
         run: |
-          ls
-          ls assets
-          gh-space-shooter --output ./assets/space-shooter.gif
+          gh-space-shooter \
+            --output assets/space-shooter.gif \
+            --username 4dithyan
 
       - name: Commit and push GIF
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add assets/space-shooter.gif
-          git commit -m "Update space shooter GIF" || echo "No changes"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update space shooter GIF"
+            git push
+          fi
