@@ -11,7 +11,6 @@ Full Stack & Android Developer | Kotlin | Shopify
 * 🧠  I'm currently learning Kotlin
 * 💬  Ask me about My code works… I don’t know why 🤷‍♂️
 
-## 🚀 My GitHub Space Shooter
 
 ![Space Shooter](./assets/space-shooter.gif)
 
