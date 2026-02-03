@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# ✅ Give permission to push files
 permissions:
   contents: write
 
@@ -14,11 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Space Shooter
-        uses: czl19707/gh-space-shooter@v1
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install gh-space-shooter
+        run: |
+          pip install gh-space-shooter
+
+      - name: Generate Game
+        run: |
+          gh-space-shooter --user 4dithyan --output dist
 
       - name: Commit files
         run: |
