@@ -28,8 +28,12 @@ jobs:
       - name: Create assets directory
         run: mkdir -p assets
 
-      - name: Generate GIF
-        run: gh-space-shooter --output assets/space-shooter.gif
+- name: Prepare assets folder
+  run: mkdir -p assets
+
+- name: Generate GIF
+  run: gh-space-shooter --output ./assets/space-shooter.gif
+
 
       - name: Commit GIF
         run: |
