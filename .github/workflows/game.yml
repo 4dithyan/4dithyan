@@ -1,0 +1,38 @@
+name: GitHub Contribution Game
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install gh-space-shooter
+        run: |
+          pip install --upgrade pip
+          pip install gh-space-shooter
+
+      - name: Generate game
+        run: |
+          mkdir -p dist
+          gh-space-shooter --user 4dithyan --output dist
+
+      - name: Commit files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add dist
+          git commit -m "Update GitHub game" || echo "No changes"
+          git push
