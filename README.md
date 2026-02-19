@@ -3,9 +3,6 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&width=650&height=45&lines=Hi+👋+I'm+Adithyan+M;Android+Developer+%26+Full+Stack;Kotlin+%7C+Shopify+Developer;Based+in+Kerala,+India;Let's+Build+Something+Amazing+🚀&center=true&vCenter=true&size=22" />
-</div>
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EA043&width=650&height=45&lines=Hi+👋+I'm+Adithyan+M;Android+Developer+%26+Full+Stack;Kotlin+%7C+Shopify+Developer;Based+in+Kerala,+India;Let's+Build+Something+Amazing+🚀&center=true&vCenter=true&size=22" />
 </div>
 
