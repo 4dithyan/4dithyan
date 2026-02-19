@@ -54,11 +54,21 @@
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
 
-<br>
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="330"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
