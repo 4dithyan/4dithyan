@@ -8,7 +8,7 @@ Android Developer & Full Stack | Kotlin | Shopify
 <img src="https://readme-typing-svg.herokuapp.com?color=00F700&width=650&height=45&lines=Hi+👋+I'm+Adithyan+M;Android+Developer+%26+Full+Stack;Kotlin+%7C+Shopify+Developer;Based+in+Kerala,+India;Let's+Build+Something+Amazing+🚀&center=true&vCenter=true&size=22" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F700&width=380&height=45&lines=Hi+I'm+Adithyan;Full+Stack+Developer;AI+Enthusiast" />
+
 <img align="right" src="ROBOT_GIF_LINK" width="250"/>
 
 
