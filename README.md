@@ -21,10 +21,11 @@
 
 
 
-## 🌐 Socials:
+
 
 
 <p align="center">
+## 🌐 Socials:
 
   <a href="https://adithyan-portfolio.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-2F2F2F?style=for-the-badge&logo=google-chrome&logoColor=white" />
