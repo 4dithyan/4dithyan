@@ -51,7 +51,8 @@
 
 </div>
 
-<img src="https://quotes-github-readme.vercel.app/api?theme=dark&bg_color=2B2B2B&border_color=2B2B2B" />
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark&bg_color=242424&border_color=242424" />
+
 
 
 </p>
