@@ -25,11 +25,25 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyan-me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithyan.me)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailforadithyan@gmail.com) 
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
 ### ✍️ Random Dev Quote
 
+<table>
+<tr>
+<td width="50%">
+
 ![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
 
 
 </p>
