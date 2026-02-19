@@ -12,10 +12,8 @@ Android Developer & Full Stack | Kotlin | Shopify
 * 🚀  I'm currently working on Personal learning projects using Kotlin
 * 💬  Ask me about My code works… I don’t know why 🤷‍♂️
 
-   <p>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Android_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F700&width=380&height=45&lines=Hi+I'm+Adithyan;Full+Stack+Developer;AI+Enthusiast" />
+
 
 ![Space Shooter](./assets/space-shooter.gif)
 <p align="left">
