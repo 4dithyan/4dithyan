@@ -50,5 +50,18 @@
 
 
 
+<div align="center">
+
+### ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+
+<br>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+
+</div>
+
+
 
 </p>
