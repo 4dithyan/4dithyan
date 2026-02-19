@@ -30,17 +30,17 @@
 
 ### ✍️ Random Dev Quote
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center" valign="middle">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280"/>
 
 </td>
 </tr>
