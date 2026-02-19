@@ -6,7 +6,7 @@
 
 
 
-<img align="right" src="ROBOT_GIF_LINK" width="250"/>
+
 
 
 
