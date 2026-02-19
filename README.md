@@ -4,7 +4,7 @@
 
 <p align="center">
  
- src="https://readme-typing-svg.herokuapp.com?color=00F700&width=650&height=45&lines=Hi+👋+I'm+Adithyan+M;Android+Developer+%26+Full+Stack;Kotlin+%7C+Shopify+Developer;Based+in+Kerala,+India;Let's+Build+Something+Amazing+🚀&center=true&vCenter=true&size=22" /> </p>
+ <img src="https://readme-typing-svg.herokuapp.com?color=00F700&width=650&height=45&lines=Hi+👋+I'm+Adithyan+M;Android+Developer+%26+Full+Stack;Kotlin+%7C+Shopify+Developer;Based+in+Kerala,+India;Let's+Build+Something+Amazing+🚀&center=true&vCenter=true&size=22" /> </p>
 
 
 
