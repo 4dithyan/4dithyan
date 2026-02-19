@@ -10,6 +10,9 @@
 
 
 
+<div align="center">
+  <img src="./assets/space-shooter.gif" width="100%" />
+</div>
 
 
 <div align="center">
