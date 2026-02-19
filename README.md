@@ -23,7 +23,30 @@
 
 ## 🌐 Socials:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyan-me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithyan.me)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailforadithyan@gmail.com) 
+
+<p align="center">
+
+  <a href="https://adithyan-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-2F2F2F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/4dithyan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/adithyan.me">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/adithyan-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/helloXcodebot">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+</p>
 
 
 
@@ -54,30 +77,6 @@
 
 
 
-
-<p align="center">
-
-  <a href="https://adithyan-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-2F2F2F?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/4dithyan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/adithyan.me">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/adithyan-me/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/helloXcodebot">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-</p>
 
 
 
