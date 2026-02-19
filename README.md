@@ -13,6 +13,7 @@ Android Developer & Full Stack | Kotlin | Shopify
 * 💬  Ask me about My code works… I don’t know why 🤷‍♂️
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F700&width=380&height=45&lines=Hi+I'm+Adithyan;Full+Stack+Developer;AI+Enthusiast" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 
 ![Space Shooter](./assets/space-shooter.gif)
