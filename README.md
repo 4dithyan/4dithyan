@@ -8,10 +8,6 @@
 
 
 
-<div align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/9577989691422039620_0" width="320" alt="Dark Hacker Robot Matrix Animation"/>
-</div>
-
 
 
 <div align="center">
