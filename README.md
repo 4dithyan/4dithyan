@@ -9,9 +9,8 @@
 
 
 
-
 <div align="center">
-  <img src="./assets/space-shooter.gif" width="100%" />
+  <img src="./assets/space-shooter.gif" width="900" />
 </div>
 
 
