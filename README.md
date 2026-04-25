@@ -9,6 +9,38 @@
 
 <h3 align="center"><b>MY TECH STACK.</b></h3>
 
+
+<h3 align="center"><b>MY TECH STACK.</b></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=F5F0E8" alt="C" />
+  <img src="https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=F5F0E8" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=java&logoColor=F5F0E8" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=for-the-badge&logo=kotlin&logoColor=F5F0E8" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F5F0E8" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-1A1A1A?style=for-the-badge&logo=php&logoColor=F5F0E8" alt="PHP" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F5F0E8" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=F5F0E8" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=F5F0E8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-1A1A1A?style=for-the-badge&logo=bootstrap&logoColor=F5F0E8" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=F5F0E8" alt="TailwindCSS" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=F5F0E8" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=F5F0E8" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-1A1A1A?style=for-the-badge&logo=oracle&logoColor=F5F0E8" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=F5F0E8" alt="Firebase" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F5F0E8" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=F5F0E8" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=F5F0E8" alt="Figma" />
+  <img src="https://img.shields.io/badge/WordPress-1A1A1A?style=for-the-badge&logo=wordpress&logoColor=F5F0E8" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=F5F0E8" alt="Linux" />
+</p>
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-F5F0E8?style=for-the-badge&logo=c&logoColor=1A1A1A" alt="C" />
   <img src="https://img.shields.io/badge/C++-F5F0E8?style=for-the-badge&logo=cplusplus&logoColor=1A1A1A" alt="C++" />
