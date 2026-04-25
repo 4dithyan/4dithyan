@@ -10,12 +10,6 @@
 <h3 align="center"><b>MY TECH STACK.</b></h3>
 
 
-<h3 align="center"><b>MY TECH STACK.</b></h3>
-
-
-
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-F5F0E8?style=for-the-badge&logo=c&logoColor=1A1A1A" alt="C" />
