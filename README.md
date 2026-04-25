@@ -7,22 +7,35 @@
 </div>
 <br>
 
-<table align="center">
-<tr>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36"/></td>
-</tr>
-</table>
+<h3 align="center"><b>MY TECH STACK.</b></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-F5F0E8?style=for-the-badge&logo=c&logoColor=1A1A1A" alt="C" />
+  <img src="https://img.shields.io/badge/C++-F5F0E8?style=for-the-badge&logo=cplusplus&logoColor=1A1A1A" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-F5F0E8?style=for-the-badge&logo=java&logoColor=1A1A1A" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-F5F0E8?style=for-the-badge&logo=kotlin&logoColor=1A1A1A" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-F5F0E8?style=for-the-badge&logo=python&logoColor=1A1A1A" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-F5F0E8?style=for-the-badge&logo=php&logoColor=1A1A1A" alt="PHP" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F5F0E8?style=for-the-badge&logo=javascript&logoColor=1A1A1A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-F5F0E8?style=for-the-badge&logo=html5&logoColor=1A1A1A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-F5F0E8?style=for-the-badge&logo=css3&logoColor=1A1A1A" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-F5F0E8?style=for-the-badge&logo=bootstrap&logoColor=1A1A1A" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-F5F0E8?style=for-the-badge&logo=tailwindcss&logoColor=1A1A1A" alt="TailwindCSS" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-F5F0E8?style=for-the-badge&logo=mongodb&logoColor=1A1A1A" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-F5F0E8?style=for-the-badge&logo=mysql&logoColor=1A1A1A" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F5F0E8?style=for-the-badge&logo=oracle&logoColor=1A1A1A" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Firebase-F5F0E8?style=for-the-badge&logo=firebase&logoColor=1A1A1A" alt="Firebase" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F5F0E8?style=for-the-badge&logo=git&logoColor=1A1A1A" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-F5F0E8?style=for-the-badge&logo=visualstudiocode&logoColor=1A1A1A" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F5F0E8?style=for-the-badge&logo=figma&logoColor=1A1A1A" alt="Figma" />
+  <img src="https://img.shields.io/badge/WordPress-F5F0E8?style=for-the-badge&logo=wordpress&logoColor=1A1A1A" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Linux-F5F0E8?style=for-the-badge&logo=linux&logoColor=1A1A1A" alt="Linux" />
+</p>
+
+
 
 <br>
 <br>
