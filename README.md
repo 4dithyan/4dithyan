@@ -41,6 +41,35 @@
 </p>
 
 
+<h3 align="center"><b>MY TECH STACK.</b></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=c&logoColor=C0392B" alt="C" />
+  <img src="https://img.shields.io/badge/C++-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=cplusplus&logoColor=C0392B" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=java&logoColor=C0392B" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=kotlin&logoColor=C0392B" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=python&logoColor=C0392B" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=php&logoColor=C0392B" alt="PHP" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=javascript&logoColor=C0392B" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=html5&logoColor=C0392B" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=css3&logoColor=C0392B" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=bootstrap&logoColor=C0392B" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=tailwindcss&logoColor=C0392B" alt="TailwindCSS" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=mongodb&logoColor=C0392B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=mysql&logoColor=C0392B" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=oracle&logoColor=C0392B" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Firebase-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=firebase&logoColor=C0392B" alt="Firebase" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=git&logoColor=C0392B" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=visualstudiocode&logoColor=C0392B" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=figma&logoColor=C0392B" alt="Figma" />
+  <img src="https://img.shields.io/badge/WordPress-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=wordpress&logoColor=C0392B" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Linux-F5F0E8?style=for-the-badge&labelColor=1A1A1A&logo=linux&logoColor=C0392B" alt="Linux" />
+</p>
+
+
 
 
 <p align="center">
