@@ -3,9 +3,10 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2EA043&width=650&height=45&lines=Hi+👋+I'm+Adithyan+M;Android+Developer+%26+Full+Stack;Kotlin+%7C+Shopify+Developer;Based+in+Kerala,+India;Let's+Build+Something+Amazing+🚀&center=true&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=24&pause=1000&color=C0392B&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+Adithyan+M+👋;Full+Stack+%26+Android+Developer+📱;Kotlin+%7C+Next.js+%7C+React+⚛️;Shopify+Theme+Developer+🛍️;Based+in+Kerala,+India+🌴;Smashing+Bugs+%26+Writing+Clean+Code+🪲🔨;Freelance+Software+Engineer+💼;Let's+Build+Something+Unbreakable+🚀" alt="Typing Animation" />
 </div>
 <br>
+
 
 <h3 align="center"><b>MY TECH STACK.</b></h3>
 
