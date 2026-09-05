@@ -114,7 +114,7 @@
 
 <td align="center">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="330"/>
+<img src="./assets/ye2.gif" width="330"/>
 
 </td>
 </tr>
