@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./assets/github_horizontal_banner.gif" width="900" alt="Banner" />
+  <img src="./assets/ahhd.gif" width="900" alt="Banner" />
 </div>
 
 
