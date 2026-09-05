@@ -1,47 +1,53 @@
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" width="900">
+
+  <!-- ROW 1 : 3 -->
   <tr>
-    <td colspan="2" width="50%">
-      <img src="./assets/wqq.gif" width="100%" alt="Banner 1" />
+    <td colspan="2" width="450" height="180">
+      <img src="./assets/wqq.gif" width="450" height="180" alt="Banner 1">
     </td>
-    <td width="25%">
-      <img src="./assets/2.gif" width="100%" alt="Banner 2" />
+    <td width="225" height="180">
+      <img src="./assets/2.gif" width="225" height="180" alt="Banner 2">
     </td>
-    <td width="25%">
-      <img src="./assets/1.gif" width="100%" alt="Banner 3" />
+    <td width="225" height="180">
+      <img src="./assets/1.gif" width="225" height="180" alt="Banner 3">
     </td>
   </tr>
 
+  <!-- ROW 2 : 2 -->
   <tr>
-    <td width="25%">
-      <img src="./assets/5.gif" width="100%" alt="Banner 4" />
+    <td colspan="2" width="450" height="180">
+      <img src="./assets/5.gif" width="450" height="180" alt="Banner 4">
     </td>
-    <td colspan="2" width="50%">
-      <img src="./assets/3.gif" width="100%" alt="Banner 5" />
-    </td>
-    <td width="25%">
-      <img src="./assets/7.gif" width="100%" alt="Banner 6" />
+    <td colspan="2" width="450" height="180">
+      <img src="./assets/3.gif" width="450" height="180" alt="Banner 5">
     </td>
   </tr>
 
+  <!-- ROW 3 : 3 -->
   <tr>
-    <td colspan="2" width="50%">
-      <img src="./assets/ahhd.gif" width="100%" alt="Banner 7" />
+    <td width="225" height="180">
+      <img src="./assets/7.gif" width="225" height="180" alt="Banner 6">
     </td>
-    <td colspan="2" width="50%">
-      <img src="./assets/4.gif" width="100%" alt="Banner 8" />
+    <td colspan="2" width="450" height="180">
+      <img src="./assets/ahhd.gif" width="450" height="180" alt="Banner 7">
+    </td>
+    <td width="225" height="180">
+      <img src="./assets/4.gif" width="225" height="180" alt="Banner 8">
     </td>
   </tr>
 
+  <!-- ROW 4 : 2 -->
   <tr>
-    <td colspan="2" width="50%">
-      <img src="./assets/6.gif" width="100%" alt="Banner 9" />
+    <td colspan="2" width="450" height="180">
+      <img src="./assets/6.gif" width="450" height="180" alt="Banner 9">
     </td>
-    <td colspan="2" width="50%">
-      <img src="./assets/8.gif" width="100%" alt="Banner 10" />
+    <td colspan="2" width="450" height="180">
+      <img src="./assets/8.gif" width="450" height="180" alt="Banner 10">
     </td>
   </tr>
+
 </table>
 
 </div>
