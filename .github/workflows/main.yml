@@ -2,6 +2,7 @@ name: Update Space Shooter GIF
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
 
@@ -13,14 +14,69 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      # Checkout your repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
 
+      # Make sure assets folder exists
       - name: Create assets folder
         run: mkdir -p assets
 
+      # Generate the GitHub contribution Space Shooter
       - name: Generate Space Shooter
-        uses: czl9707/gh-space-shooter@v1
+        uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: assets/space-shooter.gif
           strategy: random
+
+      # Install Pillow
+      - name: Install Pillow
+        run: python -m pip install pillow
+
+      # Convert the GIF to black and white
+      - name: Convert GIF to Monochrome
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageSequence
+
+          path = "assets/space-shooter.gif"
+
+          image = Image.open(path)
+
+          frames = []
+          durations = []
+
+          for frame in ImageSequence.Iterator(image):
+              frame = frame.convert("RGBA")
+
+              # Convert RGB colors to grayscale
+              grayscale = frame.convert("L")
+
+              # Keep transparency
+              result = Image.merge(
+                  "RGBA",
+                  (
+                      grayscale,
+                      grayscale,
+                      grayscale,
+                      frame.getchannel("A")
+                  )
+              )
+
+              frames.append(result)
+              durations.append(frame.info.get("duration", 100))
+
+          frames[0].save(
+              path,
+              save_all=True,
+              append_images=frames[1:],
+              duration=durations,
+              loop=image.info.get("loop", 0),
+              optimize=True
+          )
+
+          print("Monochrome Space Shooter GIF created successfully.")
+          PY
