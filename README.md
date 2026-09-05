@@ -51,3 +51,7 @@
 </table>
 
 </div>
+
+<div align="center">
+  <img src="./assets/space-shooter.gif" width="900" />
+</div>
