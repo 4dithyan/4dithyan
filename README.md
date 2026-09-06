@@ -44,11 +44,11 @@
 
 </div>
 
-<div align="center">
-  <img src="./assets/space-shooter.gif" width="900" />
-</div>
+
 
 <br>
+
+
 
 <p align="center">
   <picture>
@@ -62,8 +62,28 @@
     />
     <img
       src="https://raw.githubusercontent.com/4dithyan/4dithyan/output/minesweeper-contribution-graph.svg"
-      alt="Minesweeper Contribution Graph"
       width="100%"
+      alt="Minesweeper Contribution Graph"
+    />
+  </picture>
+</p>
+
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/4dithyan/4dithyan/output/bomberman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/4dithyan/4dithyan/output/bomberman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/4dithyan/4dithyan/output/bomberman-contribution-graph.svg"
+      width="100%"
+      alt="Bomberman Contribution Graph"
     />
   </picture>
 </p>
