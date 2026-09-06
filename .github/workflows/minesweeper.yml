@@ -1,4 +1,4 @@
-name: Update Minesweeper
+name: Update Minesweeper + Bomberman
 
 on:
   schedule:
@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Minesweeper
+      - name: Generate Minesweeper + Bomberman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "minesweeper"
+          games: "minesweeper,bomberman"
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
